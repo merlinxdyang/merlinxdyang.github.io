@@ -1,4 +1,4 @@
----
+```---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
@@ -7,7 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+```
+  I am currently employed as an associate professor at <a href="http://www.zjut.edu.cn">Zhejiang University of Technology</a> in China, where I teach linguistics-oriented courses such as Introduction to Linguistics, Introduction to Syntax, and language courses such as Academic English for Graduate Students. I earned my PhD in Linguistics from Chungnam National University in 2011. Prior to my current position, I worked at <a href="http://www.zafu.edu.cn">Zhejiang A & F University </a> from 2001 to 2008, where I taught Chinese as a foreign language to overseas students.</p>
 
+  My primary research interests lie in the fields of syntax, pragmatics, prosody, and their interface. Through my investigations, I aim to explore the relationship between language competence and language performance, and how they intersect. Additionally, I am intrigued by the application of corpus linguistics and statistical methods to explain the linguistic patterns discovered in Sanskrit-Chinese parallel corpora and errors in L2 academic writing. For corpus linguistic analysis, I predominantly use Python, while R is my preferred statistical tool, and I write in LaTeX.
+
+  Furthermore, I am eager to explore the potential of AI technologies in corpus and quantitative studies on vocabulary and syntax. I firmly believe that AI technologies have the potential to significantly improve the efficiency and accuracy of linguistic analysis, particularly in the domain of corpus linguistics. My goal is to employ AI to develop more sophisticated and effective methods for analyzing large-scale linguistic data and gaining new insights into language use and variation. Specifically, I am interested in exploring machine learning and natural language processing techniques for automatic word sense disambiguation, syntactic parsing, and semantic analysis. My intention is to combine these techniques with traditional statistical methods to develop a comprehensive framework for analyzing language use and variation that can be applied to a wide range of linguistic phenomena and across different languages.
+           
+                           
+```
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +56,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+```
