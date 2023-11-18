@@ -11,23 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronic Engineering, China Institute of Metrology, 1998
+* PgD. in Linguistics, Zhejiang Gongshang University, 2005
+* M.A. in Linguistics, Chungnam National University, 2007
+* Ph.D in Linguistics, Chungnam National University, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-- : Associate Professor
+  * Zhejiang University of Technology, China
+  * Duties included: Teaching and Researching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Visiting Scholar
+  * University of British Columbia, Canada
+  * Duties included: Researching
+  * Supervisor: Professor Martina Wiltschko
+
+* 2007-2009: Lecturer
+  * Chungnam National University, Korea
+  * Duties included: Teaching Chinese as a Foreign Language
+
+* 2001-2008: Lecturer
+  * Zhejiang Agriculture and Forestry University, China
+  * Duties included: Teaching Chinese as a Foreign Language
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
