@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently employed as an associate professor at <a href="http://www.zjut.edu.cn">Zhejiang University of Technology</a> in China, where I teach linguistics-oriented courses such as Introduction to Linguistics, Introduction to Syntax, and language courses such as Academic English for Graduate Students. I earned my PhD in Linguistics from Chungnam National University in 2011. Prior to my current position, I worked at <a href="http://www.zafu.edu.cn">Zhejiang A & F University </a> from 2001 to 2008, where I taught Chinese as a foreign language to overseas students.</p>
+I am currently employed as an associate professor at <a href="http://www.zjut.edu.cn">Zhejiang University of Technology</a> in China, where I teach linguistics-oriented courses such as Introduction to Linguistics, Introduction to Syntax, and language courses such as Academic English for Graduate Students. I earned my PhD in Linguistics from Chungnam National University in 2011. Prior to my current position, I worked at <a href="http://www.zafu.edu.cn">Zhejiang A & F University </a> from 2001 to 2008, where I taught Chinese as a foreign language to overseas students.
 
   My primary research interests lie in the fields of syntax, pragmatics, prosody, and their interface. Through my investigations, I aim to explore the relationship between language competence and language performance, and how they intersect. Additionally, I am intrigued by the application of corpus linguistics and statistical methods to explain the linguistic patterns discovered in Sanskrit-Chinese parallel corpora and errors in L2 academic writing. For corpus linguistic analysis, I predominantly use Python, while R is my preferred statistical tool, and I write in LaTeX.
 
