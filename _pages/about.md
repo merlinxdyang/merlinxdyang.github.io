@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: null
 title: "Redirecting..."
 ---
 <!DOCTYPE html>
@@ -13,8 +14,7 @@ title: "Redirecting..."
   </script>
 </head>
 <body>
-  <p>正在跳转到新主页...</p>
-  <p>如果没有自动跳转，请<a href="https://ailinguistics.cloud/merlinyang/index.php">点击这里</a>。</p>
+  <p>正在跳转...</p>
 </body>
 </html>
 
