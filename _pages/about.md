@@ -1,5 +1,27 @@
 ---
 permalink: /
+title: "Redirecting..."
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url=https://ailinguistics.cloud/merlinyang/index.php">
+  <script>
+    window.location.href = "https://ailinguistics.cloud/merlinyang/index.php";
+  </script>
+</head>
+<body>
+  <p>正在跳转到新主页...</p>
+  <p>如果没有自动跳转，请<a href="https://ailinguistics.cloud/merlinyang/index.php">点击这里</a>。</p>
+</body>
+</html>
+
+
+
+<!-- ---
+permalink: /
 title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
